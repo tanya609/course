@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+   <block>
+      <img>image/product25.jpg</img>
+      <title> Canalicchio di Sopra  </title>
+      <price>$ 65.00 USD </price>
+   </block>
+   <block>
+      <img>image/product26.jpg</img>
+      <title> Ca dei Frati Ronchedone 2019  </title>
+      <price> $ 2115.00 USD </price>
+   </block>
+   <block>
+      <img>image/product24.jpg</img>
+      <title> Tenuta Cantagallo Barco </title>
+      <price> $8.000 USD </price>
+   </block>
+</root>
+   
